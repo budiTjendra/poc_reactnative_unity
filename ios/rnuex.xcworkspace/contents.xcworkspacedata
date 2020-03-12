@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../unity/iosbuild/Unity-iPhone.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../node_modules/@wowmaking/react-native-unity/ios/RNUProxy/RNUProxy.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:rnuex.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
