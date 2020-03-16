@@ -1,6 +1,7 @@
 package com.rnuex;
 
-import com.reactlibrary.UnityReactActivity;
+
+import com.wowmaking.rnunity.UnityReactActivity;
 
 public class MainActivity extends UnityReactActivity {
 
